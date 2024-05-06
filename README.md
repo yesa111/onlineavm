@@ -1,15 +1,35 @@
-# E-Commerce website html css
 
-in this repository you will see an html css template for a cool designed e-commerce website.
+<h1>:pizza: React Pizza</h1>
 
-## :heavy_check_mark: useful for who:
+*Ecommerce template built using React and styled-components*
+<br /> 
 
--   wants to practice your html css skills
+[Visit Site](https://nikkipeel.github.io/react-pizza)
+<br />
 
-## :heavy_check_mark: Authors
+:gem: **Features:**
+- Mobile-responsive
+- Slide-out menu
+- Grid layout for display products
 
--   created by Alireza Tayebinejad from: [@vibracode](https://www.github.com/octokatherine)
 
-## :heavy_check_mark: License
+### Hero Section &darr;
+<img src="src/images/hero.png" alt="hero section" width="100%" height="auto" />
+<br />
 
-free for everyone to use in any good purposes :heart:
+### Navigation &darr;
+<img src="src/images/navbar.png" alt="navigation" width="100%" height="auto" />
+<br />
+
+### Menu &darr;
+<img src="src/images/pizza-menu.png" alt="pizza menu" width="100%" height="auto" />
+<br />
+
+### Featured/Specials &darr;
+<img src="src/images/feature-final.png" alt="specials" width="100%" height="auto" />
+<br />
+
+### Desserts &darr;
+<img src="src/images/dessert-menu.png" alt="dessert menu" width="100%" height="auto"/>
+<br />
+
